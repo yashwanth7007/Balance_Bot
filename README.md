@@ -2,5 +2,5 @@
 two wheel balance bot
 by 
 Yashwanth
-Lukamn A R
+Lukman A R
 Niranjangupta
